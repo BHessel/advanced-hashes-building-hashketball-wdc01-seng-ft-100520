@@ -1,6 +1,7 @@
 require 'pry'
 
 def game_hash
+  binding.pry
   {
     home: {
       team_name: "Brookyln Nets",
